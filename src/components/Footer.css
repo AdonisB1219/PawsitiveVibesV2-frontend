@@ -1,0 +1,40 @@
+#inicia-sesion, #cerrar-sesion{
+    border-radius: 10px;
+    color: #F06319;
+    background-color: white;
+    border: 2px solid #F06319;
+    padding: 5px 5px;
+    font-size: 22px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+#registrate{
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+    background-color: #F06319;
+    border: 1px solid white;
+    padding: 6px 6px;
+    font-size: 22px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+.menu .iconos{
+    list-style: none;
+    display: flex;
+    margin: 30px;
+}
+
+.menu .iconos li{
+    padding: 10px;
+}
+
+.iconos li a i{
+    font-size: 30px;
+}
+
+.bi {
+    margin: 3px;
+}
